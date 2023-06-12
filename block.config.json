@@ -2,8 +2,8 @@
   "name": "bb",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/that-coder/bb.git",
+    "ssh": "git@github.com:that-coder/bb.git",
     "branch": "block_bb"
   },
   "dependencies": {
