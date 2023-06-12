@@ -1,0 +1,36 @@
+{
+  "name": "bb",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_bb"
+  },
+  "dependencies": {
+    "bb_removeTodo": {
+      "directory": "bb_removeTodo"
+    },
+    "bb_listTodos": {
+      "directory": "bb_listTodos"
+    },
+    "bb_addTodo": {
+      "directory": "bb_addTodo"
+    },
+    "bb_todoInput": {
+      "directory": "bb_todoInput"
+    },
+    "bb_todoItem": {
+      "directory": "bb_todoItem"
+    },
+    "bb_todoContainer": {
+      "directory": "bb_todoContainer"
+    }
+  },
+  "blockId": "Gde5h-grZ7ipLpFxg1H02",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
